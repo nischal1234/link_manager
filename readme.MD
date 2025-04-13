@@ -1,5 +1,4 @@
-this is readme file
-
+```
 link-manager/
 ├── 📂 assets/
 │   ├── 📂 css/
@@ -27,3 +26,4 @@ link-manager/
 ├── index.php                # Home page (with search functionality)
 ├── .htaccess                # For URL rewriting (optional)
 └── README.md                # Project documentation
+```
