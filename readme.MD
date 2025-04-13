@@ -42,6 +42,23 @@ A lightweight, secure, and responsive web application for managing personal or c
 ```bash
 git clone https://github.com/yourusername/link-manager.git
 cd link-manager
+```
+
+2. **Create a MySQL database**
+
+Import the SQL schema from /database/schema.sql or use the provided SQL queries.
+
+3. **Configure database connection**
+
+Open /includes/db.php and edit the following:
+```bash
+$servername = "localhost";
+$username = "your_db_user";
+$password = "your_db_pass";
+$dbname = "your_db_name";
+
+```
+
 
 ##  Folder Structure
 
