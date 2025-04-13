@@ -1,4 +1,4 @@
-# 🔗 Link Manager
+# 🔗 Link Manager (Personal use )
 
 A lightweight, secure, and responsive web application for managing personal or categorized links. Users can register/login, create link categories, add and organize links, and search them by title or category — all built using **PHP**, **MySQL**, **JavaScript**, and **Bootstrap**, without any external frameworks.
 
@@ -91,3 +91,10 @@ link-manager/
 ├── .htaccess                # For URL rewriting (optional)
 └── README.md                # Project documentation
 ```
+## Screenshots 
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+## 📄 License
+This project is open source and free to use for educational or personal purposes.
