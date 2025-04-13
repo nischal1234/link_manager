@@ -1,3 +1,50 @@
+# 🔗 Link Manager
+
+A lightweight, secure, and responsive web application for managing personal or categorized links. Users can register/login, create link categories, add and organize links, and search them by title or category — all built using **PHP**, **MySQL**, **JavaScript**, and **Bootstrap**, without any external frameworks.
+
+---
+
+## 🌟 Features
+
+- ✅ User Registration & Login (Restricted to approved email)
+- 🔒 CSRF Protection for all forms
+- 📁 Categorize links with stats tracking
+- ➕ Add, 📝 Edit, and ❌ Delete links
+- 🔍 AJAX-based search by title or category
+- 📊 Category stats on dashboard
+- 🎨 Fully responsive and animated UI (Bootstrap + Animate.css)
+- 🛡️ Prepared for future enhancements (Magic Link login, OTP, etc.)
+
+---
+
+## 🧱 Tech Stack
+
+| Layer        | Technology                  |
+|--------------|-----------------------------|
+| Frontend     | HTML, CSS, Bootstrap, JS    |
+| Backend      | PHP (No framework)          |
+| Database     | MySQL                       |
+| AJAX         | jQuery                      |
+| UI Animation | Animate.css                 |
+
+---
+
+## 🚀 Live Demo
+
+[🌐 Visit Live Site](https://link.nischalmandal.com)
+
+---
+
+## 🛠️ Installation & Setup
+
+1. **Clone the project**
+
+```bash
+git clone https://github.com/yourusername/link-manager.git
+cd link-manager
+
+##  Folder Structure
+
 ```
 link-manager/
 ├── 📂 assets/
